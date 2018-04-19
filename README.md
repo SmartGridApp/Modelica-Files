@@ -1,7 +1,6 @@
 # Modelica-Files
 
-Whats new ?? 16.02.2018
+Whats new ?? 19.04.2018
 
-1.One-phase transmission line is added to MicroGrid.OnePhase.Components.Transmission.
 
-2. An appropriate example has been put in MicroGrid.Examples.OnePhase as "Line_test"
+Grid tie inverter has been added to the library
